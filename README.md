@@ -14,7 +14,7 @@
 ## :tv: Demonstração
 
 <p align="center">
-  <img alt="Demonstração" src="/assets/mentoria.png" width="100%">
+  <img alt="Demonstração" src="/assets/mentoria.png" width="800">
 </p>
 
 ## :hammer_and_wrench: Tecnologias
